@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karosaxy
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning DevOps tools
+- 🌱 I’m currently learning GoLang
 - 📫 How to reach me on araromirichard@gmail.com
 
 <!---
