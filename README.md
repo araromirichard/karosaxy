@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @karosaxy
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning GoLang
+- 👋 Hi, I’m Araromi Richard Oshokemeh
+- 👀 I’m interested in DevOps and Serverless Solution
+- 🌱 I’m currently improving GoLang Skills
 - 📫 How to reach me on araromirichard@gmail.com
 
 <!---
